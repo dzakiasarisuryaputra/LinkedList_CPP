@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1666092485 source:e:\strukdat22\linkedlistdualdata\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
